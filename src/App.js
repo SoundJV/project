@@ -20,9 +20,12 @@ function App() {
           Learn react 2h
         </a>
       </header>
+      <div className="test">
+      <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX7qQG2hCGiwy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      </div>
     </div>
+
   );
 }
 
 export default App;
-

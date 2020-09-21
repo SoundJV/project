@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.test{
+display: flex;
+text-align: center;
+  background-color: aqua;
+  font-size: 35px;
+  color: aliceblue;
+}
